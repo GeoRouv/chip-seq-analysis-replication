@@ -1,8 +1,5 @@
 # Replicate-ChiP-Seq-Analysis
-In this proeject i replicated a ChiP-Seq analysis from an experiment regarding gene induction and repression during terminal erythropoiesis are mediated by distinct epigenetic changes
-
-## Protocol
-![logo]
+In this project i replicated a ChiP-Seq analysis from an experiment regarding gene induction and repression during terminal erythropoiesis are mediated by distinct epigenetic changes
 
 ## Tools you'll need:
 
@@ -16,5 +13,18 @@ In this proeject i replicated a ChiP-Seq analysis from an experiment regarding g
 * MACS 1.4.1 (Peak Calling)
 * MEME 5.0.2 (Motif analysis)
 
+## Protocol
+![logo]
 
 [logo]: https://github.com/GeoRouv/Replicate-ChiP-Seq-Analysis/blob/main/Analysis%20Steps.jpg
+
+1. Quality Control (FastQC) 
+2. Adapter Prediction (Minion)
+3. Adapter Trimming (Cutadapt)
+4. Quality Control (FastQC)
+5.Alignment (Bowtie)
+6. Peak Calling (MACS)
+7. Visualization (IGV)
+8. Motif Analysis (MEME)
+
+
