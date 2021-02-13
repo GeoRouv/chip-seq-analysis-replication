@@ -54,3 +54,11 @@ Download it and place it in the folder data>bowtie_indexes so it can be used whe
 8. Motif Analysis (MEME)
 
 
+## Run
+
+To run the configuration and run the whole analysis execute the 'GeneralPipeline.sh'
+
+## Notes
+
+You can find further information for each analysis stage in the project report.
+The pipeline can be optimized in terms of code.
