@@ -18,7 +18,7 @@ The following **samples** from the project data have been used:
 No control or input/baseline was among the samples selected.
 
 In general, the **[mouse genome (mm9 version)](https://hgdownload.soe.ucsc.edu/goldenPath/mm9/bigZips/)** was used for reference during the stages of Bowtie, MACS, IGV and MEME.
-
+It is advised to download it and place it in the general folder so it can be used when executing the pipeline later.
 
 ## Tools you'll need:
 
