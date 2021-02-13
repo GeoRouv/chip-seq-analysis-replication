@@ -1,7 +1,6 @@
-# Replicate-ChiP-Seq-Analysis
+# ChiP-Seq-Analysis-Replication
 
-ChiP-Seq-Analysis-Replication
-In this project i replicated a ChiP-Seq analysis from an experiment regarding gene induction and repression during terminal erythropoiesis are mediated by distinct epigenetic changes.
+In this project i replicated a ChiP-Seq analysis from an experiment regarding gene induction and repression during terminal erythropoiesis that are mediated by distinct epigenetic changes.
 
 You can find the research project [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204918/)
 
