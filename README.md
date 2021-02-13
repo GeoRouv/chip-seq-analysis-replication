@@ -1,5 +1,21 @@
 # Replicate-ChiP-Seq-Analysis
-In this project i replicated a ChiP-Seq analysis from an experiment regarding gene induction and repression during terminal erythropoiesis are mediated by distinct epigenetic changes
+In this project i replicated a ChiP-Seq analysis from an experiment regarding gene induction and repression during terminal erythropoiesis are mediated by distinct epigenetic changes.
+
+You can find the research project [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204918/)
+
+## Data
+
+The following **samples** from the project data have been used:
+
+|Sample Name|GEO Accession	  |Chip Anti-Body	  |Project Report Shortname
+| --------- |:---------------:| ---------------:|
+|SRR1157326	|GSM688808	      |H3K4me2	        |Sample0
+|SRR1157329	|GSM688811	      |H3K27me3	        |Sample1
+|SRR1157333	|GSM688815	      |RNA Pol II	      |Sample2
+|SRR1157341	|GSM688824	      |RNA Pol II	      |Sample3
+
+
+
 
 ## Tools you'll need:
 
