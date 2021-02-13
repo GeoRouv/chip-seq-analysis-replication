@@ -15,6 +15,9 @@ The following **samples** from the project data have been used:
 |SRR1157341	   |GSM688824	      |RNA Pol II	      |Sample3                 |
 
 
+No control or input/baseline was among the samples selected.
+
+In general, the **mouse genome (mm9 version)** was used for reference during the stages of Bowtie, MACS, IGV and MEME.
 
 
 ## Tools you'll need:
