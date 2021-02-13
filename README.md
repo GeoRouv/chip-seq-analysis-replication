@@ -25,7 +25,7 @@ Be sure that there is not an empty line at the end of each sample file.
 No control or input/baseline was among the samples selected.
 
 In general, the **[mouse genome (mm9 version)](https://hgdownload.soe.ucsc.edu/goldenPath/mm9/bigZips/)** was used for reference during the stages of Bowtie, MACS, IGV and MEME.
-It is advised to download it and place it in the general folder so it can be used when executing the pipeline later.
+Download it and place it in the folder data>bowtie_indexes so it can be used when executing the pipeline later.
 
 ## Tools you'll need:
 
