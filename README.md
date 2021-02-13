@@ -22,7 +22,7 @@ In this project i replicated a ChiP-Seq analysis from an experiment regarding ge
 2. Adapter Prediction (Minion)
 3. Adapter Trimming (Cutadapt)
 4. Quality Control (FastQC)
-5.Alignment (Bowtie)
+5. Alignment (Bowtie)
 6. Peak Calling (MACS)
 7. Visualization (IGV)
 8. Motif Analysis (MEME)
