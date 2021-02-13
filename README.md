@@ -14,6 +14,13 @@ The following **samples** from the project data have been used:
 |[SRR1157333](https://www.ncbi.nlm.nih.gov/sra?term=SRX461530)	   |GSM688815	      |RNA Pol II	      |Sample2                 |
 |[SRR1157341](https://www.ncbi.nlm.nih.gov/sra?term=SRX461538)	   |GSM688824	      |RNA Pol II	      |Sample3                 |
 
+Donwload all four samples in .fastq format and place them into folder Data>original_samples respectively under the names:
+sra_data0.fastq
+sra_data1.fastq
+sra_data2.fastq
+sra_data3.fastq
+
+Be sure that there is not an empty line at the end of each sample file.
 
 No control or input/baseline was among the samples selected.
 
