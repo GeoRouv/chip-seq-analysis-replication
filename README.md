@@ -56,7 +56,7 @@ Download it and place it in the folder data>bowtie_indexes so it can be used whe
 
 ## Run
 
-To run the configuration and run the whole analysis execute the 'GeneralPipeline.sh'
+To run the configuration and the whole analysis execute the 'GeneralPipeline.sh'
 
 ## Notes
 
