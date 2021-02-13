@@ -9,10 +9,10 @@ The following **samples** from the project data have been used:
 
 |Sample Name   |GEO Accession	  |Chip Anti-Body	  |Project Report Shortname|
 | ------------ | -------------- | --------------- | ---------------------- |
-|SRR1157326	   |GSM688808	      |H3K4me2	        |Sample0                 |
-|SRR1157329	   |GSM688811	      |H3K27me3	        |Sample1                 |
-|SRR1157333	   |GSM688815	      |RNA Pol II	      |Sample2                 |
-|SRR1157341	   |GSM688824	      |RNA Pol II	      |Sample3                 |
+|[SRR1157326](https://www.ncbi.nlm.nih.gov/sra?term=SRX461523)	   |GSM688808	      |H3K4me2	        |Sample0                 |
+|[SRR1157329](https://www.ncbi.nlm.nih.gov/sra?term=SRX461526)	   |GSM688811	      |H3K27me3	        |Sample1                 |
+|[SRR1157333](https://www.ncbi.nlm.nih.gov/sra?term=SRX461530)	   |GSM688815	      |RNA Pol II	      |Sample2                 |
+|[SRR1157341](https://www.ncbi.nlm.nih.gov/sra?term=SRX461538)	   |GSM688824	      |RNA Pol II	      |Sample3                 |
 
 
 No control or input/baseline was among the samples selected.
