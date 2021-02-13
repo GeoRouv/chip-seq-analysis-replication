@@ -62,5 +62,5 @@ To run the configuration and the whole analysis execute the 'GeneralPipeline.sh'
 
 ## Notes
 
-You can find further information for each analysis stage in the project report.
+You can find further information for each analysis stage in the project report.  
 The pipeline can be optimized in terms of code.
