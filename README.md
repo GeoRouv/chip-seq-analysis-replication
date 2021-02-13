@@ -3,4 +3,6 @@ In this proeject i replicated a ChiP-Seq analysis from an experiment regarding g
 
 ## Tools you need
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+![logo]
+
+[logo]: https://github.com/GeoRouv/Replicate-ChiP-Seq-Analysis/blob/main/Analysis%20Steps.jpg
